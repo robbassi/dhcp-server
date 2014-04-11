@@ -1,0 +1,1 @@
+("6.0" ("81ffc4ddd9d5cdb8758e1365c799d9893813acdd" . "22e94a6a1aa6e2987d6dc24c34e8dead48a56671") (collects #"racket" #"function.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") #"C:\\Users\\Rob\\projects\\racket\\dhcp-server\\util.rkt" (collects #"file" #"sha1.rkt"))
